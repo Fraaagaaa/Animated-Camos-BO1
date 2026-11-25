@@ -1,0 +1,2 @@
+- Arreglar la raygun en remix
+- La mira de la famas sin mejorar
